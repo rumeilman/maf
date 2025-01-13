@@ -24,10 +24,10 @@ about:{ id:'about', css:'col-1-3', data:[
 },
 
 stats:{ id:'stats', css:'col-1-3',data:[
-{id:1,nama:'CLIENTS',isi:10,icon:'eye'},
-{id:1,nama:'PROJECTS',isi:10,icon:'camera'},
-{id:1,nama:'POSITIVE FEEDBACKS',isi:10,icon:'geo'},
-{id:1,nama:'WEBSITE LAUNCH',isi:10,icon:'pen'},
+{id:1,nama:'CLIENTS',isi:50,icon:'eye'},
+{id:1,nama:'PROJECTS',isi:98,icon:'camera'},
+{id:1,nama:'POSITIVE FEEDBACKS',isi:80,icon:'geo'},
+{id:1,nama:'WEBSITE LAUNCH',isi:34,icon:'pen'},
 ],
 },
 
